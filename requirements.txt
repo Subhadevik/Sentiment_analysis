@@ -6,4 +6,3 @@ nltk
 scikit-learn
 h5py
 joblib
-gzip
